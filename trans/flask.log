@@ -1,0 +1,66 @@
+2024-06-02 11:03:49,536 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-06-02 11:03:52,578 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-02 11:03:54,300 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-en-ny/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2024-06-02 11:03:55,725 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-en-ny/resolve/main/config.json HTTP/1.1" 200 0
+2024-06-02 11:03:59,283 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-06-02 11:04:00,113 - DEBUG - Creating converter from 7 to 5
+2024-06-02 11:04:00,114 - DEBUG - Creating converter from 5 to 7
+2024-06-02 11:04:00,114 - DEBUG - Creating converter from 7 to 5
+2024-06-02 11:04:00,114 - DEBUG - Creating converter from 5 to 7
+2024-06-02 11:04:04,941 - WARNING - From C:\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-06-02 11:04:07,621 - WARNING - From C:\Python312\Lib\site-packages\tf_keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2024-06-02 11:04:10,235 - DEBUG - Creating converter from 3 to 5
+2024-06-02 11:04:11,749 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-en-ny/resolve/main/generation_config.json HTTP/1.1" 200 0
+2024-06-02 11:04:12,124 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-ny-en/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2024-06-02 11:04:12,727 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-ny-en/resolve/main/config.json HTTP/1.1" 200 0
+2024-06-02 11:04:17,650 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-ny-en/resolve/main/generation_config.json HTTP/1.1" 200 0
+2024-06-02 11:04:17,726 - WARNING -  * Debugger is active!
+2024-06-02 11:04:17,760 - INFO -  * Debugger PIN: 122-949-950
+2024-06-02 11:19:01,000 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-06-02 11:19:03,568 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-02 11:19:05,280 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-en-ny/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2024-06-02 11:19:06,426 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-en-ny/resolve/main/config.json HTTP/1.1" 200 0
+2024-06-02 11:19:12,263 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-06-02 11:19:13,611 - DEBUG - Creating converter from 7 to 5
+2024-06-02 11:19:13,611 - DEBUG - Creating converter from 5 to 7
+2024-06-02 11:19:13,611 - DEBUG - Creating converter from 7 to 5
+2024-06-02 11:19:13,611 - DEBUG - Creating converter from 5 to 7
+2024-06-02 11:19:22,126 - WARNING - From C:\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-06-02 11:19:25,442 - WARNING - From C:\Python312\Lib\site-packages\tf_keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2024-06-02 11:19:27,719 - DEBUG - Creating converter from 3 to 5
+2024-06-02 11:19:29,097 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-en-ny/resolve/main/generation_config.json HTTP/1.1" 200 0
+2024-06-02 11:19:29,429 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-ny-en/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2024-06-02 11:19:29,983 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-ny-en/resolve/main/config.json HTTP/1.1" 200 0
+2024-06-02 11:19:33,766 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-ny-en/resolve/main/generation_config.json HTTP/1.1" 200 0
+2024-06-02 11:19:33,826 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.148.94:5000
+2024-06-02 11:19:33,826 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-02 11:19:33,828 - INFO -  * Restarting with stat
+2024-06-02 11:19:38,883 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-06-02 11:19:41,305 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-02 11:19:42,457 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-en-ny/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2024-06-02 11:19:43,334 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-en-ny/resolve/main/config.json HTTP/1.1" 200 0
+2024-06-02 11:19:45,070 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-06-02 11:19:45,547 - DEBUG - Creating converter from 7 to 5
+2024-06-02 11:19:45,547 - DEBUG - Creating converter from 5 to 7
+2024-06-02 11:19:45,547 - DEBUG - Creating converter from 7 to 5
+2024-06-02 11:19:45,547 - DEBUG - Creating converter from 5 to 7
+2024-06-02 11:19:49,148 - WARNING - From C:\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-06-02 11:19:50,864 - WARNING - From C:\Python312\Lib\site-packages\tf_keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2024-06-02 11:19:53,069 - DEBUG - Creating converter from 3 to 5
+2024-06-02 11:19:53,857 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-en-ny/resolve/main/generation_config.json HTTP/1.1" 200 0
+2024-06-02 11:19:54,192 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-ny-en/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2024-06-02 11:19:54,758 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-ny-en/resolve/main/config.json HTTP/1.1" 200 0
+2024-06-02 11:19:57,639 - DEBUG - https://huggingface.co:443 "HEAD /Helsinki-NLP/opus-mt-ny-en/resolve/main/generation_config.json HTTP/1.1" 200 0
+2024-06-02 11:19:57,654 - WARNING -  * Debugger is active!
+2024-06-02 11:19:57,654 - INFO -  * Debugger PIN: 122-949-950
+2024-06-02 11:22:27,515 - INFO -  * Detected change in 'C:\\Users\\Miles kayler\\Documents\\trans\\andy.py', reloading
+2024-06-02 11:22:29,434 - INFO -  * Restarting with stat
